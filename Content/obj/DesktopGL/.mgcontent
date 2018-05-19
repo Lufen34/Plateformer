@@ -9,18 +9,7 @@
     <File>/home/lufen/Documents/Monogame/Plateformer/Content/player2.png</File>
     <File>/home/lufen/Documents/Monogame/Plateformer/Content/mainfont.spritefont</File>
     <File>/home/lufen/Documents/Monogame/Plateformer/Content/texte.spritefont</File>
-    <File>/home/lufen/Documents/Monogame/Plateformer/Content/GUI_Sound_Effects_by_Lokif/click.wav</File>
-    <File>/home/lufen/Documents/Monogame/Plateformer/Content/GUI_Sound_Effects_by_Lokif/click_2.wav</File>
-    <File>/home/lufen/Documents/Monogame/Plateformer/Content/GUI_Sound_Effects_by_Lokif/load.wav</File>
-    <File>/home/lufen/Documents/Monogame/Plateformer/Content/GUI_Sound_Effects_by_Lokif/misc_menu.wav</File>
-    <File>/home/lufen/Documents/Monogame/Plateformer/Content/GUI_Sound_Effects_by_Lokif/misc_menu_2.wav</File>
-    <File>/home/lufen/Documents/Monogame/Plateformer/Content/GUI_Sound_Effects_by_Lokif/misc_menu_3.wav</File>
-    <File>/home/lufen/Documents/Monogame/Plateformer/Content/GUI_Sound_Effects_by_Lokif/misc_menu_4.wav</File>
-    <File>/home/lufen/Documents/Monogame/Plateformer/Content/GUI_Sound_Effects_by_Lokif/misc_sound.wav</File>
-    <File>/home/lufen/Documents/Monogame/Plateformer/Content/GUI_Sound_Effects_by_Lokif/negative.wav</File>
-    <File>/home/lufen/Documents/Monogame/Plateformer/Content/GUI_Sound_Effects_by_Lokif/negative_2.wav</File>
-    <File>/home/lufen/Documents/Monogame/Plateformer/Content/GUI_Sound_Effects_by_Lokif/positive.wav</File>
-    <File>/home/lufen/Documents/Monogame/Plateformer/Content/GUI_Sound_Effects_by_Lokif/save.wav</File>
-    <File>/home/lufen/Documents/Monogame/Plateformer/Content/GUI_Sound_Effects_by_Lokif/sharp_echo.wav</File>
+    <File>/home/lufen/Documents/Monogame/Plateformer/Content/click.wav</File>
+    <File>/home/lufen/Documents/Monogame/Plateformer/Content/load.wav</File>
   </SourceFiles>
 </SourceFileCollection>

@@ -21,8 +21,8 @@ namespace Plateformer
         {
             MainFont = pContent.Load<SpriteFont>("mainfont");
             textFont = pContent.Load<SpriteFont>("texte");
-            onButton = pContent.Load<SoundEffect>("GUI_Sound_Effects_by_Lokif/click");
-            clickedOnMenuButton = pContent.Load<SoundEffect>("GUI_Sound_Effects_by_Lokif/load");
+            onButton = pContent.Load<SoundEffect>("click");
+            clickedOnMenuButton = pContent.Load<SoundEffect>("load");
         }
     }
 }

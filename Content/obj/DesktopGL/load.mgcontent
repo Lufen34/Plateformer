@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>/home/lufen/Documents/Monogame/Plateformer/Content/GUI_Sound_Effects_by_Lokif/misc_menu_4.wav</SourceFile>
+  <SourceFile>/home/lufen/Documents/Monogame/Plateformer/Content/load.wav</SourceFile>
   <SourceTime>2018-05-19T11:49:09+01:00</SourceTime>
-  <DestFile>/home/lufen/Documents/Monogame/Plateformer/Content/bin/DesktopGL/GUI_Sound_Effects_by_Lokif/misc_menu_4.xnb</DestFile>
-  <DestTime>2018-05-19T13:12:38+01:00</DestTime>
+  <DestFile>/home/lufen/Documents/Monogame/Plateformer/Content/bin/DesktopGL/load.xnb</DestFile>
+  <DestTime>2018-05-19T13:32:54+01:00</DestTime>
   <Importer>WavImporter</Importer>
   <ImporterTime>2018-05-19T12:25:19+01:00</ImporterTime>
   <Processor>SoundEffectProcessor</Processor>
