@@ -6,8 +6,10 @@
   <SourceFiles>
     <File>/home/lufen/Documents/Monogame/Plateformer/Content/BackGroundMenu.jpg</File>
     <File>/home/lufen/Documents/Monogame/Plateformer/Content/Button.png</File>
-    <File>/home/lufen/Documents/Monogame/Plateformer/Content/player2.png</File>
     <File>/home/lufen/Documents/Monogame/Plateformer/Content/mainfont.spritefont</File>
+    <File>/home/lufen/Documents/Monogame/Plateformer/Content/MouseOver.wav</File>
+    <File>/home/lufen/Documents/Monogame/Plateformer/Content/player2.png</File>
     <File>/home/lufen/Documents/Monogame/Plateformer/Content/texte.spritefont</File>
+    <File>/home/lufen/Documents/Monogame/Plateformer/Content/click.ogg</File>
   </SourceFiles>
 </SourceFileCollection>

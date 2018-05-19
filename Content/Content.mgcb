@@ -37,6 +37,19 @@
 /processorParam:TextureFormat=Color
 /build:Button.png
 
+#begin mainfont.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:mainfont.spritefont
+
+#begin MouseOver.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:MouseOver.wav
+
 #begin player2.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -49,13 +62,6 @@
 /processorParam:TextureFormat=Color
 /build:player2.png
 
-#begin mainfont.spritefont
-/importer:FontDescriptionImporter
-/processor:FontDescriptionProcessor
-/processorParam:PremultiplyAlpha=True
-/processorParam:TextureFormat=Compressed
-/build:mainfont.spritefont
-
 #begin texte.spritefont
 /importer:FontDescriptionImporter
 /processor:FontDescriptionProcessor
@@ -63,15 +69,9 @@
 /processorParam:TextureFormat=Compressed
 /build:texte.spritefont
 
-#begin click.wav
-/importer:WavImporter
+#begin click.ogg
+/importer:OggImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:click.wav
-
-#begin load.wav
-/importer:WavImporter
-/processor:SoundEffectProcessor
-/processorParam:Quality=Best
-/build:load.wav
+/build:click.ogg
 
