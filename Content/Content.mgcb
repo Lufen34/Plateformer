@@ -3,7 +3,7 @@
 
 /outputDir:bin/$(Platform)
 /intermediateDir:obj/$(Platform)
-/platform:Windows
+/platform:DesktopGL
 /config:
 /profile:Reach
 /compress:False
@@ -25,12 +25,17 @@
 /processorParam:TextureFormat=Color
 /build:BackGroundMenu.jpg
 
-#begin mainfont.spritefont
-/importer:FontDescriptionImporter
-/processor:FontDescriptionProcessor
+#begin Button.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
 /processorParam:PremultiplyAlpha=True
-/processorParam:TextureFormat=Compressed
-/build:mainfont.spritefont
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Button.png
 
 #begin player2.png
 /importer:TextureImporter
@@ -44,29 +49,12 @@
 /processorParam:TextureFormat=Color
 /build:player2.png
 
-#begin Button.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
+#begin mainfont.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
 /processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:Button.png
-
-#begin GUI_Sound_Effects_by_Lokif/click.wav
-/importer:WavImporter
-/processor:SoundEffectProcessor
-/processorParam:Quality=Best
-/build:GUI_Sound_Effects_by_Lokif/click.wav
-
-#begin GUI_Sound_Effects_by_Lokif/load.wav
-/importer:WavImporter
-/processor:SoundEffectProcessor
-/processorParam:Quality=Best
-/build:GUI_Sound_Effects_by_Lokif/load.wav
+/processorParam:TextureFormat=Compressed
+/build:mainfont.spritefont
 
 #begin texte.spritefont
 /importer:FontDescriptionImporter
@@ -74,4 +62,82 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:TextureFormat=Compressed
 /build:texte.spritefont
+
+#begin GUI_Sound_Effects_by_Lokif/click.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:GUI_Sound_Effects_by_Lokif/click.wav
+
+#begin GUI_Sound_Effects_by_Lokif/click_2.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:GUI_Sound_Effects_by_Lokif/click_2.wav
+
+#begin GUI_Sound_Effects_by_Lokif/load.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:GUI_Sound_Effects_by_Lokif/load.wav
+
+#begin GUI_Sound_Effects_by_Lokif/misc_menu.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:GUI_Sound_Effects_by_Lokif/misc_menu.wav
+
+#begin GUI_Sound_Effects_by_Lokif/misc_menu_2.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:GUI_Sound_Effects_by_Lokif/misc_menu_2.wav
+
+#begin GUI_Sound_Effects_by_Lokif/misc_menu_3.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:GUI_Sound_Effects_by_Lokif/misc_menu_3.wav
+
+#begin GUI_Sound_Effects_by_Lokif/misc_menu_4.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:GUI_Sound_Effects_by_Lokif/misc_menu_4.wav
+
+#begin GUI_Sound_Effects_by_Lokif/misc_sound.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:GUI_Sound_Effects_by_Lokif/misc_sound.wav
+
+#begin GUI_Sound_Effects_by_Lokif/negative.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:GUI_Sound_Effects_by_Lokif/negative.wav
+
+#begin GUI_Sound_Effects_by_Lokif/negative_2.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:GUI_Sound_Effects_by_Lokif/negative_2.wav
+
+#begin GUI_Sound_Effects_by_Lokif/positive.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:GUI_Sound_Effects_by_Lokif/positive.wav
+
+#begin GUI_Sound_Effects_by_Lokif/save.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:GUI_Sound_Effects_by_Lokif/save.wav
+
+#begin GUI_Sound_Effects_by_Lokif/sharp_echo.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:GUI_Sound_Effects_by_Lokif/sharp_echo.wav
 

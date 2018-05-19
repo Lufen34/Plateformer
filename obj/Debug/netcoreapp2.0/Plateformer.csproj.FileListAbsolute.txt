@@ -1,0 +1,16 @@
+/home/lufen/Documents/Monogame/Plateformer/bin/Debug/netcoreapp2.0/Plateformer.deps.json
+/home/lufen/Documents/Monogame/Plateformer/bin/Debug/netcoreapp2.0/Plateformer.runtimeconfig.json
+/home/lufen/Documents/Monogame/Plateformer/bin/Debug/netcoreapp2.0/Plateformer.runtimeconfig.dev.json
+/home/lufen/Documents/Monogame/Plateformer/bin/Debug/netcoreapp2.0/Plateformer.dll
+/home/lufen/Documents/Monogame/Plateformer/bin/Debug/netcoreapp2.0/Plateformer.pdb
+/home/lufen/Documents/Monogame/Plateformer/obj/Debug/netcoreapp2.0/Plateformer.csprojAssemblyReference.cache
+/home/lufen/Documents/Monogame/Plateformer/obj/Debug/netcoreapp2.0/Plateformer.csproj.CoreCompileInputs.cache
+/home/lufen/Documents/Monogame/Plateformer/obj/Debug/netcoreapp2.0/Plateformer.AssemblyInfoInputs.cache
+/home/lufen/Documents/Monogame/Plateformer/obj/Debug/netcoreapp2.0/Plateformer.AssemblyInfo.cs
+/home/lufen/Documents/Monogame/Plateformer/obj/Debug/netcoreapp2.0/Plateformer.dll
+/home/lufen/Documents/Monogame/Plateformer/obj/Debug/netcoreapp2.0/Plateformer.pdb
+/home/lufen/Documents/Monogame/Plateformer/bin/Debug/netcoreapp2.0/Content/BackGroundMenu.xnb
+/home/lufen/Documents/Monogame/Plateformer/bin/Debug/netcoreapp2.0/Content/player2.xnb
+/home/lufen/Documents/Monogame/Plateformer/bin/Debug/netcoreapp2.0/Content/mainfont.xnb
+/home/lufen/Documents/Monogame/Plateformer/bin/Debug/netcoreapp2.0/Content/texte.xnb
+/home/lufen/Documents/Monogame/Plateformer/bin/Debug/netcoreapp2.0/Content/Button.xnb

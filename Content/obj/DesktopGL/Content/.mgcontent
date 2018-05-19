@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/lufen/Documents/Monogame/Plateformer/Content/BackGroundMenu.jpg</File>
+    <File>/home/lufen/Documents/Monogame/Plateformer/Content/Button.png</File>
+    <File>/home/lufen/Documents/Monogame/Plateformer/Content/player2.png</File>
+    <File>/home/lufen/Documents/Monogame/Plateformer/Content/mainfont.spritefont</File>
+    <File>/home/lufen/Documents/Monogame/Plateformer/Content/texte.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>
