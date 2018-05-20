@@ -48,7 +48,7 @@ namespace Plateformer
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
             AssetManager.Load(Content);
-            gameState.ChangeScene(GameState.SceneType.Menu);
+            gameState.ChangeScene(GameState.SceneType.Game);
             // TODO: use this.Content to load your game content here
         }
 
@@ -96,7 +96,7 @@ namespace Plateformer
             if (gameState.CurrentScene.CurrentType == GameState.SceneType.Menu)
                 GraphicsDevice.Clear(Color.CornflowerBlue);
             else if (gameState.CurrentScene.CurrentType == GameState.SceneType.Game)
-                GraphicsDevice.Clear(Color.Chocolate);
+                GraphicsDevice.Clear(Color.Black);
             else if (gameState.CurrentScene.CurrentType == GameState.SceneType.GameOver)
                 GraphicsDevice.Clear(Color.IndianRed);
             else

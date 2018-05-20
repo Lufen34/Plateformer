@@ -11,5 +11,7 @@
     <File>/home/lufen/Documents/Monogame/Plateformer/Content/player2.png</File>
     <File>/home/lufen/Documents/Monogame/Plateformer/Content/texte.spritefont</File>
     <File>/home/lufen/Documents/Monogame/Plateformer/Content/click.ogg</File>
+    <File>/home/lufen/Documents/Monogame/Plateformer/Content/backgroundlevel1.png</File>
+    <File>/home/lufen/Documents/Monogame/Plateformer/Content/middlegroundlevel1.png</File>
   </SourceFiles>
 </SourceFileCollection>

@@ -17,3 +17,5 @@
 /home/lufen/Documents/Monogame/Plateformer/bin/Debug/netcoreapp2.0/Content/MouseOver.xnb
 /home/lufen/Documents/Monogame/Plateformer/bin/Debug/netcoreapp2.0/Content/click.ogg
 /home/lufen/Documents/Monogame/Plateformer/bin/Debug/netcoreapp2.0/Content/click.xnb
+/home/lufen/Documents/Monogame/Plateformer/bin/Debug/netcoreapp2.0/Content/middlegroundlevel1.xnb
+/home/lufen/Documents/Monogame/Plateformer/bin/Debug/netcoreapp2.0/Content/backgroundlevel1.xnb
