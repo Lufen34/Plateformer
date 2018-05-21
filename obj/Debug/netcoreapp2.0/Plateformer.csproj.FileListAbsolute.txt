@@ -19,3 +19,6 @@
 /home/lufen/Documents/Monogame/Plateformer/bin/Debug/netcoreapp2.0/Content/click.xnb
 /home/lufen/Documents/Monogame/Plateformer/bin/Debug/netcoreapp2.0/Content/middlegroundlevel1.xnb
 /home/lufen/Documents/Monogame/Plateformer/bin/Debug/netcoreapp2.0/Content/backgroundlevel1.xnb
+/home/lufen/Documents/Monogame/Plateformer/bin/Debug/netcoreapp2.0/Content/tileset.xnb
+/home/lufen/Documents/Monogame/Plateformer/bin/Debug/netcoreapp2.0/Content/houses.xnb
+/home/lufen/Documents/Monogame/Plateformer/bin/Debug/netcoreapp2.0/Content/props.xnb

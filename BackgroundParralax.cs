@@ -9,12 +9,15 @@ namespace Plateformer
     public class BackgroundParralax : Background
     {
         public Vector2 PosMiddleGround { get; set; }
+        public int amountRedraw;
         private Texture2D Middleground { get; set; }
+        
         
         public BackgroundParralax(Texture2D pBackground, Texture2D pMiddleground) : base(pBackground)
         {
-            this.Middleground = pMiddleground;
-            this.PosMiddleGround = Vector2.Zero;
+            Middleground = pMiddleground;
+            PosMiddleGround = Vector2.Zero;
+            amountRedraw = 0;
         }
 
         public void Move(float pX, float pY, GameTime gameTime, int pSpeed)
@@ -41,7 +44,6 @@ namespace Plateformer
                 spriteBatch.Draw(Middleground, new Vector2(PosMiddleGround.X + Middleground.Width, PosMiddleGround.Y));
             if (PosMiddleGround.X <= -Middleground.Width)
                 PosMiddleGround =  Vector2.Zero;
-            
         }
     }
 }

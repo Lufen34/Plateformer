@@ -34,7 +34,7 @@ namespace Plateformer
             IsMouseVisible = true;
             graphics.PreferredBackBufferWidth = 800;
             graphics.PreferredBackBufferHeight = 600;
-            graphics.IsFullScreen = false;
+            graphics.IsFullScreen = true;
             graphics.ApplyChanges();
             base.Initialize();
         }
@@ -48,7 +48,7 @@ namespace Plateformer
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
             AssetManager.Load(Content);
-            gameState.ChangeScene(GameState.SceneType.Game);
+            gameState.ChangeScene(GameState.SceneType.Menu);
             // TODO: use this.Content to load your game content here
         }
 
